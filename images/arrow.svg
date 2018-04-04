@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="98px" height="78px" viewBox="0 0 98 78" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.2 (51160) - http://www.bohemiancoding.com/sketch -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="45 70 0 25 90 25"></polygon>
+        <filter x="-7.8%" y="-11.1%" width="115.6%" height="131.1%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <polygon id="path-3" points="45 25 20 0 70 0"></polygon>
+        <filter x="-14.0%" y="-20.0%" width="128.0%" height="156.0%" filterUnits="objectBoundingBox" id="filter-4">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="HOME" transform="translate(-634.000000, -663.000000)">
+            <g id="Group" transform="translate(638.000000, 665.000000)">
+                <g id="Triangle-2">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                    <use fill="#F7BB32" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    <path stroke="#FFFFFF" stroke-width="3" d="M45,67.8786797 L86.3786797,26.5 L3.62132034,26.5 L45,67.8786797 Z"></path>
+                </g>
+                <g id="Triangle-2">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
+                    <use fill="#00BEFF" fill-rule="evenodd" xlink:href="#path-3"></use>
+                    <path stroke="#FFFFFF" stroke-width="3" d="M45,22.8786797 L66.3786797,1.5 L23.6213203,1.5 L45,22.8786797 Z"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
